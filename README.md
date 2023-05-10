@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @russtack
-- 👀 I’m interested in javascript development
-- 🌱 I’m currently learning node.js, react
+- 👀 I’m interested in web/software development
+- 🌱 I’m currently learning react, android studio
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ...
 
