@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @russtack
-- 👀 I’m interested in web/software development
-- 🌱 I’m currently learning react, android studio
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 Software developer
+- 🌱 Java, Javascript, Python
+- 💞️ I’m looking to collaborate on web/software development projects
 - 📫 How to reach me ...
 
 <!---
