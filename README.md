@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @russtack
 - 👀 Software developer
-- 🌱 Java, Javascript, Python
+- 🌱 React Native, Java, Javascript, Python
 - 💞️ I’m looking to collaborate on web/software development projects
 - 📫 How to reach me ...
 
