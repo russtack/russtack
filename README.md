@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @russtack
-- 👀 Software developer
-- 🌱 React Native, Java, Javascript, Python
-- 💞️ I’m looking to collaborate on web/software development projects
-- 📫 How to reach me ...
+- 🌱 React Native, Javascript, Python
+
 
 <!---
 russtack/russtack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
